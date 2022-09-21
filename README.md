@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Dinara
-
+- 👋 Hi, everyone! Happy to see you here 😇
 ## Languages
 * Javascript, React, Redux, Typescript, Next.js
 * SQL, PostgreSQL, Prisma
