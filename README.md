@@ -1,6 +1,9 @@
-- 👋 Hi, everyone! Happy to see you here 😇
-## Languages
-* Javascript, React, Redux, Typescript, Next.js
+👋 Hi, everyone! Happy to see you here 😇
+## Techs
+* Javascript
+* React, Redux, React Query, Redux Toolkit
+* Typescript 
+* Next.js
 * SQL, PostgreSQL, Prisma
 
 ## Projects
