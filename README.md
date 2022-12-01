@@ -1,14 +1,11 @@
-👋 Hi, everyone! Happy to see you here 😇
+👋 Hi!
 ## Techs
-* Javascript
-* React, Redux, React Query, Redux Toolkit
+* React, Redux, React Query
 * Typescript 
 * Next.js
 * SQL, PostgreSQL, Prisma
-
-## Projects
-### Personal Projects
-* MVP is almost ready! Link will be provided soon 🤓
+* SCSS / Styled-Components / Tailwindcss
+* Webpack / ESlint / Prettier
 
 ## Contacts
 [@didigain](https://t.me/didigain)
