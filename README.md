@@ -6,7 +6,7 @@
 * SQL, PostgreSQL, Prisma
 * SCSS / Styled-Components / Tailwindcss
 * Webpack / ESlint / Prettier
-* learning React Native
+* Basics: C, React Native, Swift, Python
 
 ## Contacts
 [@didigain](https://t.me/didigain)
